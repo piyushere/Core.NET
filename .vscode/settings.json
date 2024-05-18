@@ -1,0 +1,8 @@
+{
+  "remote.autoForwardPorts": false,
+  "dotnet.dotnetPath": "/home/piyush/.local/bin",
+  "dotnetAcquisitionExtension.existingDotnetPath": [
+    { "extensionId": "ms-dotnettools.csharp", "path": "/home/piyush/.local/bin/dotnet" },
+    { "extensionId": "ms-dotnettools.csdevkit", "path": "/home/piyush/.local/bin/dotnet" },
+  ]
+}
